@@ -63,7 +63,7 @@
 <div align="center">
   <h3>Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,python,cs,postgres,docker,linux,arduino,git,dotnet&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,redhat,postgres,firebase,mysql,docker,linux,arduino,git,python,js,php,solidity,react,latex&theme=dark&perline=12" />
   </a>
 </div>
 
