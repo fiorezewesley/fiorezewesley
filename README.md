@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/S%C3%A3o_Paulo_Skills-GOLD_MEDALIST-ffd700?style=for-the-badge&logo=medal&logoColor=black" />
   <img src="https://img.shields.io/badge/WorldSkills_Brasil_2025-BRONZE_MEDALIST-cd7f32?style=for-the-badge&logo=medal&logoColor=black" />
   <br>
-  <p><i>Acting as a Cybersecurity Coach and Judge in high-level competitive environments.</i></p>
 </div>
 
 ---
