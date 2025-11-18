@@ -12,7 +12,7 @@
 <div align="center">
     <h3>About Me</h3>
       <p>I am an MSc. student in Technological Innovation at UNIFESP-ICT, Cybersecurity Instructor at SENAI, and a researcher focused on Blockchain and Industry 4.0. My career is dedicated to bridging academia and industry, training new talent, and developing secure solutions for IIoT environments.</p>
-  <a href="https://www.linkedin.com/in/vinicius-montuani/">
+  <a href="https://www.linkedin.com/in/wesley-fioreze/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:viniciusmontuani@gmail.com">
